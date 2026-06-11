@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-const MONGO_URI = 'mongodb+srv://admin:sifre123@cluster0.dzrpsbi.mongodb.net/?appName=Cluster0';
+const MONGO_URI = 'mongodb+srv://admin:SİFRE_GİRİLMELİ@cluster0.dzrpsbi.mongodb.net/?appName=Cluster0';
 
 mongoose.connect(MONGO_URI)
   .then(() => console.log('✅ MongoDB Atlas Bağlantısı BAŞARILI!'))
