@@ -1,8 +1,5 @@
 # 🎯 Alışkanlık Edinme Süreçlerini Kolaylaştırmaya Yönelik Dijital Platform
 
-Bu proje, **Zonguldak Bülent Ecevit Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü** bünyesinde yürütülen mezuniyet diploma çalışması kapsamında kurgulanmış, oyunlaştırma (gamification) tabanlı ve veri odaklı bütüncül bir tam yığın (full-stack) web yazılımı çözümüdür.
-
----
 
 ## 📖 Proje Tanıtımı ve Problem Sahası (Özet)
 
